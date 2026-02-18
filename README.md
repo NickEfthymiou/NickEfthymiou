@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NickEfthymiou in California
 - 👀 I’m interested in Rust and R
 - 🌱 I’m currently learning Abstract Algebra using Sage
-- 💞️ I’m looking to collaborate on quantum (QED) models
+- 💞️ I’m looking to collaborate on advancing ternary logic
 - 📫 How to reach me: don't call us, we'll call you.
 
 <!---
